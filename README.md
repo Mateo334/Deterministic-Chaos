@@ -17,3 +17,4 @@ Showing the convergence to the roots using Newton's method
 Mandelbrot Set
 ![mandelbrot2](https://github.com/Mateo334/Deterministic-Chaos/assets/107246878/7c4b056b-19f7-4345-9652-908e65e55092)
 
+
