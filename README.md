@@ -22,4 +22,12 @@ Some personal projects concerning deterministic chaos and its implications. Most
       <img src="https://github.com/Mateo334/Deterministic-Chaos/assets/107246878/7c4b056b-19f7-4345-9652-908e65e55092" width="400"/>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <b>Buddhabrot set</b><br>
+      <img width="630" height="630" alt="Screenshot 2026-10-14 200206" src="https://github.com/user-attachments/assets/3062c936-e5c1-49f9-ac5b-7cb3f9776cde" />
+    </td>
+    
+
+  </tr>
 </table>
